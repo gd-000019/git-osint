@@ -1,0 +1,15 @@
+{
+  "name": "github-domain-osint",
+  "version": "1.0.0",
+  "description": "Public GitHub and GitLab CTI OSINT CLI",
+  "main": "github-osint.js",
+  "scripts": {
+    "test": "node --test",
+    "github": "node github-osint.js",
+    "gitlab": "node gitlab-osint.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
